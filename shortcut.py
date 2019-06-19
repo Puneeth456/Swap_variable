@@ -6,3 +6,6 @@ a,b=b,a  # right side is solved first
 
 print(a)
 print(b)
+
+
+# Please dont use this in the interview
